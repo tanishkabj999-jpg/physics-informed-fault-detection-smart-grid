@@ -9,7 +9,7 @@ Presentation:
 
 ## Overview
 
-This project presents a real-time fault detection system for smart grids using Machine Learning, IoT technologies and Raspberry Pi.
+This project presents a fault detection system on static dataset for smart grids using Machine Learning, IoT technologies and Raspberry Pi.
 
 The system combines physics-informed features with a Random Forest model to detect grid faults while maintaining robustness under renewable-energy-induced noise conditions.
 
@@ -46,5 +46,9 @@ The system combines physics-informed features with a Random Forest model to dete
 ## Author
 
 Tanishka Bhardwaj
+B.Tech Electrical Engineering
+ZHCET, AMU
+
+Gaurisha singhal
 B.Tech Electrical Engineering
 ZHCET, AMU
