@@ -49,6 +49,6 @@ Tanishka Bhardwaj
 B.Tech Electrical Engineering
 ZHCET, AMU
 
-Gaurisha singhal
+Gaurisha Singhal
 B.Tech Electrical Engineering
 ZHCET, AMU
